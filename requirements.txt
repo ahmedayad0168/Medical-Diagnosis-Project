@@ -1,0 +1,22 @@
+# Web Framework
+flask
+
+# Data Processing and Numerical Operations
+pandas
+numpy
+
+# Machine Learning and Modeling
+scikit-learn
+xgboost
+joblib
+
+# Image Processing (if you are handling medical images/X-rays)
+opencv-python
+pillow
+
+# Deep Learning (if using CNNs for Malaria or Pneumonia)
+tensorflow
+keras
+
+# Utilities
+python-dotenv
