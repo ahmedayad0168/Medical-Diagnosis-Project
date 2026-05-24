@@ -171,23 +171,3 @@ It is NOT intended for real-world clinical or medical use.
 Always consult professional healthcare providers for medical decisions.
 
 ---
-
-# 👨‍💻 Author
-
-## Ahmed Ayad
-
-AI & Data Science Student  
-Faculty of Computers and Artificial Intelligence
-
-GitHub:
-https://github.com/ahmedayad0168
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-- Star the repository
-- Fork the project
-- Contribute improvements
