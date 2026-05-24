@@ -1,0 +1,22 @@
+
+```txt
+# Core
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+
+# ML / NLP
+scikit-learn
+joblib
+torch
+transformers
+sentence-transformers
+fuzzywuzzy
+python-Levenshtein   # optional, improves fuzzywuzzy speed
+
+# Utilities
+tqdm
+pymongo
+flask

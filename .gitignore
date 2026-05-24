@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Models (large files)
+models/*.pkl
+models/*.bin
+models/*.pt
+
+# Data
+data/raw/
+*.csv
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
